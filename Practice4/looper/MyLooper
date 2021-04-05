@@ -19,7 +19,7 @@ public class MyLooper extends Thread {
                 Log.d("Возраст ",age + ", " + msg.getData().getString("KEY"));
             }
         };
-        handler.sendEmptyMessageDelayed(1,21);
+        handler.sendEmptyMessageDelayed(0,21);
         Looper.loop();
     }
 }
