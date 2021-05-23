@@ -1,4 +1,4 @@
-package ru.mirea.kanaev.practice5;
+package ru.mirea.kanaev.sensorlist;
 
 import androidx.appcompat.app.AppCompatActivity;
 
